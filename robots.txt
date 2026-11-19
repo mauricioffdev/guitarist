@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mauriciofilhoguitar.com.br/guitarrista/sitemap.xml
